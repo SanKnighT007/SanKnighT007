@@ -1,4 +1,4 @@
-# Hi, I'm Sanket Solanke 👋  <div align="right"> <img src="https://komarev.com/ghpvc/?username=SumitThakur-55&color=blueviolet" alt="Profile views"></div>
+# Hi, I'm Sanket Solanke! 👋  <div align="right"> <img src="https://komarev.com/ghpvc/?username=SumitThakur-55&color=blueviolet" alt="Profile views"></div>
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a love for creating impactful projects. Here's a bit more about me:
 
